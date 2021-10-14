@@ -1,2 +1,1 @@
-print("Akhmadjon");
-
+print("Crazy Experiment")
